@@ -1,0 +1,2 @@
+Python script that send emails to more than one user at a time.
+Add the needed data, like your email, password, subject and message, and in that txt file add the emails of the receivers.
